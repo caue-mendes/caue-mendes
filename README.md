@@ -1,9 +1,9 @@
 ### Cauê Mendes
 
 
-- 🔭 Trabalhando com / Working in Front-end Dev.
+- 🔭 Trabalhando com / Working as Front-end Dev.
 - 🌱 Estudando / Study Back-end.
-- 📫 Contato / Contact - Mendes.caue@outlook.com
+- 📫 Contato / Contact:  mendes.caue@outlook.com
 
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/caue-mendes-415736241/">
