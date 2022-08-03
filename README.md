@@ -1,5 +1,6 @@
 ### Cauê Mendes
 
+A little of Graphic Design with knowledge in Scrum Management
 
 - 🔭 Trabalhando com / Working as Front-end Dev.
 - 🌱 Estudando / Study Back-end.
