@@ -2,9 +2,9 @@
 
 On the road for a Full-Stack Dev.
 
-- 🧰 Trabalhando com / Working as Front-end Dev.
+- 🔧 Trabalhando com / Working as Front-end Dev.
 - 🖋️ A little of Graphic Design with knowledge in Scrum Management.
-- 🌱 Estudando / Study Back-end.
+- 📕 Estudando / Study Back-end.
 - 📫 Contato / Contact:  mendes.caue@outlook.com
 
 <div align="center">
