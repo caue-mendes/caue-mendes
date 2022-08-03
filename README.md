@@ -2,7 +2,7 @@
 
 On the road for a Full-Stack Dev.
 
-A little of Graphic Design with knowledge in Scrum Management.
+<h5>A little of Graphic Design with knowledge in Scrum Management. <h5/>
 
 - 🔭 Trabalhando com / Working as Front-end Dev.
 - 🌱 Estudando / Study Back-end.
