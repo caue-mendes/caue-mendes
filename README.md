@@ -31,6 +31,4 @@ On the road for a Full-Stack Dev.
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" target="_blank"></a><br>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" target="_blank"></a>
  
-  ![Snake animation](https://github.com/caue-mendes/caue-mendes/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
