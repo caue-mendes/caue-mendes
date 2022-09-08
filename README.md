@@ -5,7 +5,7 @@ On the road for a Full-Stack Dev.
 - 🔧 Working as Front-end Dev (React).
 - 🖋️ A little of Graphic Design with knowledge in Scrum Management.
 - 📕 Basic of Back-end (NodeJS).
-- 🐍 Next steap is Cyber Security (Python).
+- 🐍 Next steap is Cyber Security (Golang).
 - 📫 Contact:  mendes.caue@outlook.com
 - 📑 Linkedin: https://www.linkedin.com/in/caue-mendes-415736241/
 
