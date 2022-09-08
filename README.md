@@ -7,6 +7,7 @@ On the road for a Full-Stack Dev.
 - 📕 Basic of Back-end (NodeJS).
 - 🐍 Next steap is Cyber Security (Python).
 - 📫 Contact:  mendes.caue@outlook.com
+- 📑 Linkedin: https://www.linkedin.com/in/caue-mendes-415736241/
 
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/caue-mendes-415736241/">
