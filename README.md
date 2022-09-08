@@ -2,10 +2,11 @@
 
 On the road for a Full-Stack Dev.
 
-- 🔧 Trabalhando com / Working as Front-end Dev.
+- 🔧 Working as Front-end Dev (React).
 - 🖋️ A little of Graphic Design with knowledge in Scrum Management.
-- 📕 Estudando / Study Back-end.
-- 📫 Contato / Contact:  mendes.caue@outlook.com
+- 📕 Basic of Back-end (NodeJS).
+- 🐍 Next steap is Cyber Security (Python).
+- 📫 Contact:  mendes.caue@outlook.com
 
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/caue-mendes-415736241/">
@@ -18,6 +19,7 @@ On the road for a Full-Stack Dev.
   <img align="center" alt="Caue-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Caue-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caue-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Caue-CSS" height="30" width="40" src="href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </div>
 
  ##
