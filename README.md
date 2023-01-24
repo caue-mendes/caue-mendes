@@ -2,6 +2,8 @@
 
 On the road for Full-Stack Dev.
 
+I'm a front-end developer with a designer flair and scrum management expertise.
+
 [ OS ]
 
 - 🔳 Windows.
@@ -13,6 +15,8 @@ On the road for Full-Stack Dev.
 - 🧱 HTML.
 - 🎨 Css.
 - 💡  JS.
+- ☢ React.
+- 💅 Using Styled Components.
 - 📕 Basic of Back-end (NodeJS).
 
 [ Cyber Security ]
@@ -26,13 +30,12 @@ On the road for Full-Stack Dev.
 
 [ Today ]
 
-- 🔧 Working as Front-end Dev (React).
-- 💅 Using Styled Components.
+- 🔧 Working as Front-end Dev.
 - 🖋️ A little of Graphic Design with knowledge in Scrum Management.
 
 [ Next Steps ]
 
-- 🎫 C#
+- 🎫 C++
 
 [ Contact ]
 
