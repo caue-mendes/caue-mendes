@@ -27,6 +27,10 @@ I'm a front-end developer with a designer flair and scrum management expertise.
 
 - 📱 Flutter.
 
+[ Gestão ]
+
+- ⚙️ Metodologia Scrum.
+
 [ Today ]
 
 - 🔧 Working as Front-end Dev.
