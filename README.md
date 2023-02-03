@@ -8,7 +8,6 @@ I'm a front-end developer with a designer flair and scrum management expertise.
 
 - 🔳 Windows.
 - 🐉 Linux (Kali).
-- 🍎 Mac.
 
 [ Web Developer ]
 
