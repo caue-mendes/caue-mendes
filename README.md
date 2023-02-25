@@ -41,12 +41,12 @@ I'm a front-end developer with a designer flair and scrum management expertise. 
 Along the way I tried different areas and experiences, I believe that is the only way to form a unique human being.
 These are some of the dots I connected along my journey:
 
-<p><b>[ OS ]</p></b>
+<p><b>[ OS ]</b></p>
 
 - 🔳 Windows.
 - 🐉 Linux (Kali).
 
-<p><b>[ Web Developer ]</p></b>
+<p><b>[ Web Developer ]</b></p>
 
 - 🧱 HTML.
 - 🎨 Css.
@@ -55,28 +55,32 @@ These are some of the dots I connected along my journey:
 - 💅 Using Styled Components.
 - 📕 Basic of NodeJS.
 
-<p><b>[ Cyber Security ]</p></b>
+<p><b>[ Cyber Security ]</b></p>
 
 - 🐍 Python.
 - 🏴󠁴󠁷󠁰󠁥󠁮󠁿 Pentest.
 
-<p><b>[ Mobile ]</p></b>
+<p><b>[ Mobile ]</b></p>
 
 - 📱 Flutter.
 
-<p><b>[ Management ]</p></b>
+<p><b>[ Management ]</b></p>
 
 - ⚙️ Scrum.
 
-<p><b>[ Next Steps ]</p></b>
+<p><b>[ Next Steps ]</b></p>
 
 - 🎫 C++
+<br/>
 
-<p><b>[ Contact ]</p></b>
+<p><b>If you're looking for a cybersecurity professional I invite you to connect with me. <br/>
+Let's work together to safeguard your critical information and systems.<br/></b></p>
+
+<p><b>[ Contact ]</b></p>
 
 - 📫 Contact:  mendes.caue@outlook.com
 - 📑 Linkedin: https://www.linkedin.com/in/caue-mendes-415736241/
-
+<br/>
 
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/caue-mendes-415736241/">
