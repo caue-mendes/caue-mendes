@@ -1,50 +1,81 @@
 ### Cauê Mendes
 
-On the road for Full-Stack Dev.
+Cyber Defense Composer.
 
-I'm a front-end developer with a designer flair and scrum management expertise.
+I'm a front-end developer with a designer flair and scrum management expertise. after 4 years in the area I decided to migrate to Cybersecurity and my story went something like this.
 
-[ OS ]
+<table style="width: 100%; border-collapse: collapse;">
+    <tr align="center">
+        <td style="width: 14.28%;">🍼</td>
+        <td style="width: 14.28%;">🖥️</td>
+        <td style="width: 14.28%;">👨🏻‍💼</td>
+        <td style="width: 14.28%;">🎓</td>
+        <td style="width: 14.28%;">🏢</td>
+        <td style="width: 14.28%;">👨‍💻</td>
+        <td style="width: 14.28%;">🐱‍💻</td>
+    </tr>
+    <tr align="center">
+        <td style="width: 14.28%;"><b>1992</b></td>
+        <td style="width: 14.28%;"><b>2002</b></td>
+        <td style="width: 14.28%;"><b>2013</b></td>
+        <td style="width: 14.28%;"><b>2017</b></td>
+        <td style="width: 14.28%;"><b>2018</b></td>
+        <td style="width: 14.28%;"><b>2020</b></td>
+        <td style="width: 14.28%;"><b>2022</b></td>
+    </tr>
+    <tr valign="top">
+        <td style="width: 14.28%; vertical-align: top;">I was born a chubby baby.</td>
+        <td style="width: 14.28%; vertical-align: top;">I learned that computers were cool and I fussed with mine so much that I broke it.</td>
+        <td style="width: 14.28%; vertical-align: top;">I created my clothing brand and had to perform multiple functions. 
+            I had to close the doors a while later but I don't regret it.</td>
+        <td style="width: 14.28%; vertical-align: top;">I graduated in business administration and found out I didn't fit in the area. This I regret.</td>
+        <td style="width: 14.28%; vertical-align: top;">I joined an IT company called Draft It and worked as a designer and front-end developer.</td>
+        <td style="width: 14.28%; vertical-align: top;">I started my solo career in the area as a freelancer managing projects and programming websites.</td>
+        <td style="width: 14.28%; vertical-align: top;">I switched areas to Cybersecurity in parallel with my projects to seek new challenges.
+            To me this area feels like a game where you need to be faster than your opponents.</td>
+    </tr>
+</table>
+
+"You can’t connect the dots looking forward; you can only connect them looking backwards." - Steve Jobs.
+
+Along the way I tried different areas and experiences, I believe that is the only way to form a unique human being.
+These are some of the dots I connected along my journey:
+
+<p><b>[ OS ]</p></b>
 
 - 🔳 Windows.
 - 🐉 Linux (Kali).
 
-[ Web Developer ]
+<p><b>[ Web Developer ]</p></b>
 
 - 🧱 HTML.
 - 🎨 Css.
 - 💡  JS.
 - ☢ React.
 - 💅 Using Styled Components.
-- 📕 Basic of Back-end (NodeJS).
+- 📕 Basic of NodeJS.
 
-[ Cyber Security ]
+<p><b>[ Cyber Security ]</p></b>
 
 - 🐍 Python.
 - 🏴󠁴󠁷󠁰󠁥󠁮󠁿 Pentest.
 
-[ Mobile ]
+<p><b>[ Mobile ]</p></b>
 
 - 📱 Flutter.
 
-[ Gestão ]
+<p><b>[ Management ]</p></b>
 
-- ⚙️ Metodologia Scrum.
+- ⚙️ Scrum.
 
-[ Today ]
-
-- 🔧 Working as Front-end Dev.
-- 🖋️ A little of Graphic Design with knowledge in Scrum Management.
-
-[ Next Steps ]
+<p><b>[ Next Steps ]</p></b>
 
 - 🎫 C++
 
-[ Contact ]
+<p><b>[ Contact ]</p></b>
 
 - 📫 Contact:  mendes.caue@outlook.com
 - 📑 Linkedin: https://www.linkedin.com/in/caue-mendes-415736241/
-
 
 
 <div align="center">
