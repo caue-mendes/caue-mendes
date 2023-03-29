@@ -79,10 +79,4 @@ These are some of the dots I connected along my journey:
 
 - 📫 Contact:  mendes.caue@outlook.com
 - 📑 Linkedin: https://www.linkedin.com/in/caue-mendes-415736241/
-<br/>
 
-<div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/caue-mendes-415736241/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caue-mendes&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caue-mendes&layout=compact&langs_count=7&theme=aura"/>
-</div>
