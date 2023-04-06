@@ -55,6 +55,12 @@ These are some of the dots I connected along my journey:
 - 💅 Using Styled Components.
 - 📕 Basic of NodeJS.
 
+<p><b>[ DevOps ]</b></p>
+
+- 🐱 Git.
+- 🐋 Docker.
+- 🤵 Jenkins.
+
 <p><b>[ Cyber Security ]</b></p>
 
 - 🐍 Python.
