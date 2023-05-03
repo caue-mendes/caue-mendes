@@ -31,8 +31,7 @@ I'm a front-end developer with a designer flair and scrum management expertise. 
         <td style="width: 14.28%; vertical-align: top;">I graduated in business administration and found out I didn't fit in the area. This I regret.</td>
         <td style="width: 14.28%; vertical-align: top;">I joined an IT company called Draft It and worked as a designer and front-end developer.</td>
         <td style="width: 14.28%; vertical-align: top;">I started my solo career in the area as a freelancer managing projects and programming websites.</td>
-        <td style="width: 14.28%; vertical-align: top;">I switched areas to Cybersecurity in parallel with my projects to seek new challenges.
-            To me this area feels like a game where you need to be faster than your opponents.</td>
+        <td style="width: 14.28%; vertical-align: top;"> I wanted to take the next step in my career and started studying DevOps tools.</td>
     </tr>
 </table>
 
