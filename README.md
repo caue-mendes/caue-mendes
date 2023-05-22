@@ -43,7 +43,7 @@ These are some of the dots I connected along my journey:
 <p><b>[ OS ]</b></p>
 
 - 🔳 Windows.
-- 🐉 Linux (Kali).
+- 🐧 Linux.
 
 <p><b>[ Web Developer ]</b></p>
 
@@ -83,5 +83,5 @@ These are some of the dots I connected along my journey:
 <p><b>[ Contact ]</b></p>
 
 - 📫 Contact:  mendes.caue@outlook.com
-- 📑 Linkedin: https://www.linkedin.com/in/caue-mendes-415736241/
+- 📑 Linkedin: [https://www.linkedin.com/in/caue-mendes-415736241/](https://www.linkedin.com/in/cau%C3%AA-mendes-415736241/)
 
