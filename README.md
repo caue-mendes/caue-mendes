@@ -45,25 +45,32 @@ These are some of the dots I connected along my journey:
 - 🔳 Windows.
 - 🐧 Linux.
 
-<p><b>[ Web Developer ]</b></p>
+<p><b>[ Frontend ]</b></p>
 
 - 🧱 HTML.
 - 🎨 Css.
 - 💡  JS.
 - ☢ React.
-- 💅 Using Styled Components.
-- 📕 Basic of NodeJS.
+- 🤖 AngularJS.
+- 📘 Wordpress (PHP).
+
+<p><b>[ Design ]</b></p>
+
+- 🖌️ Pacote Adobe.
+- 🖍️ Figma.
 
 <p><b>[ DevOps ]</b></p>
 
 - 🐱 Git.
 - 🐋 Docker.
 - 🤵 Jenkins.
+- ♾️ Azure Devops.
 
-<p><b>[ Cyber Security ]</b></p>
+<p><b>[ Backend ]</b></p>
 
 - 🐍 Python.
-- 🏴󠁴󠁷󠁰󠁥󠁮󠁿 Pentest.
+- 🏴󠁴󠁷󠁰󠁥󠁮󠁿 Strapi.
+- 📦 NodeJS.
 
 <p><b>[ Mobile ]</b></p>
 
@@ -71,11 +78,13 @@ These are some of the dots I connected along my journey:
 
 <p><b>[ Management ]</b></p>
 
-- ⚙️ Scrum.
+- ⚙️ Scrum / Kanban.
 
 <p><b>[ Next Steps ]</b></p>
 
-- 🎫 C++
+- 🎫 C# / C++
+- 🎟️ AWS / Google Clouds / Azure
+- 🏷️ Kubernetes / Terraform / Ansible / Splunk / Jira / Maven / Selenium
 <br/>
 
 <p><b>Are you looking for a digital solution that not only meets your users' needs but also delights them with a visually stunning interface? Look no further! With my expertise in front-end development and Scrum project management, I can help you transform your digital vision into reality. I specialize in crafting seamless user experiences that blend creativity and technology, all while leading projects with agility and finesse. Let's work together to create a digital masterpiece that your users will love. Contact me today to get started!<br/></b></p>
