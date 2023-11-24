@@ -12,7 +12,7 @@ I'm a front-end developer with a designer flair and scrum management expertise. 
         <td style="width: 14.28%;">🎓</td>
         <td style="width: 14.28%;">🏢</td>
         <td style="width: 14.28%;">👨‍💻</td>
-        <td style="width: 14.28%;">🐱‍💻</td>
+        <td style="width: 14.28%;">♾️</td>
     </tr>
     <tr align="center">
         <td style="width: 14.28%;"><b>1992</b></td>
@@ -31,7 +31,7 @@ I'm a front-end developer with a designer flair and scrum management expertise. 
         <td style="width: 14.28%; vertical-align: top;">I graduated in business administration and found out I didn't fit in the area. This I regret.</td>
         <td style="width: 14.28%; vertical-align: top;">I joined an IT company called Draft It and worked as a designer and front-end developer.</td>
         <td style="width: 14.28%; vertical-align: top;">I started my solo career in the area as a freelancer managing projects and programming websites.</td>
-        <td style="width: 14.28%; vertical-align: top;"> I wanted to take the next step in my career and started studying DevOps tools.</td>
+        <td style="width: 14.28%; vertical-align: top;"> I wanted to take the next step in my career and started studying the basics of DevOps tools.</td>
     </tr>
 </table>
 
@@ -82,9 +82,8 @@ These are some of the dots I connected along my journey:
 
 <p><b>[ Next Steps ]</b></p>
 
-- 🎫 C# / C++
-- 🎟️ AWS / Google Clouds / Azure
-- 🏷️ Kubernetes / Terraform / Ansible / Splunk / Jira / Maven / Selenium
+- 🎫 C#
+- 🎟️ Azure
 <br/>
 
 <p><b>Are you looking for a digital solution that not only meets your users' needs but also delights them with a visually stunning interface? Look no further! With my expertise in front-end development and Scrum project management, I can help you transform your digital vision into reality. I specialize in crafting seamless user experiences that blend creativity and technology, all while leading projects with agility and finesse. Let's work together to create a digital masterpiece that your users will love. Contact me today to get started!<br/></b></p>
