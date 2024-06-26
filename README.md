@@ -84,8 +84,7 @@ These are some of the dots I connected along my journey:
 
 - 📓 C#
 - 📘 Azure
-- 📗 Hacking
-- 📙 DevOps / Platform Engineer Tools
+- 📗 IAs
 <br/>
 
 <p><b>Are you looking for a digital solution that not only meets your users' needs but also delights them with a visually stunning interface? Look no further! With my expertise in front-end development and Scrum project management, I can help you transform your digital vision into reality. I specialize in crafting seamless user experiences that blend creativity and technology, all while leading projects with agility and finesse. Let's work together to create a digital masterpiece that your users will love. Contact me today to get started!<br/></b></p>
