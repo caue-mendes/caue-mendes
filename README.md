@@ -31,7 +31,7 @@ I'm a front-end developer with a designer flair and scrum management expertise. 
         <td style="width: 14.28%; vertical-align: top;">I graduated in business administration and found out I didn't fit in the area. This I regret.</td>
         <td style="width: 14.28%; vertical-align: top;">I joined an IT company called Draft It and worked as a designer and front-end developer.</td>
         <td style="width: 14.28%; vertical-align: top;">I started my solo career in the area as a freelancer managing projects and programming websites.</td>
-        <td style="width: 14.28%; vertical-align: top;">I want to take the next steps in my career to become a Full Cycle Developer studying back-end, DevOps tools and IAs..</td>
+        <td style="width: 14.28%; vertical-align: top;">I want to take the next steps in my career to become a Full Cycle Developer studying back-end, DevOps tools and IAs.</td>
     </tr>
 </table>
 
