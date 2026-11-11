@@ -1,97 +1,33 @@
-### Cauê Mendes
+# Hi, I'm Cauê Mendes 👋
 
-Designing dynamic user interfaces with scrum mastery and an artistic eye.
+**Full Stack Software Engineer | Front-end Development**
 
-I'm a front-end developer with a designer flair and scrum management expertise. After 4 years in the area, I continue to learn and improve myself because I like to study and my story went something like this.
+I'm a software engineer focused on building and maintaining web applications, enterprise systems, and digital solutions.
 
-<table style="width: 100%; border-collapse: collapse;">
-    <tr align="center">
-        <td style="width: 14.28%;">🍼</td>
-        <td style="width: 14.28%;">🖥️</td>
-        <td style="width: 14.28%;">👨🏻‍💼</td>
-        <td style="width: 14.28%;">🎓</td>
-        <td style="width: 14.28%;">🏢</td>
-        <td style="width: 14.28%;">👨‍💻</td>
-        <td style="width: 14.28%;">♾️</td>
-    </tr>
-    <tr align="center">
-        <td style="width: 14.28%;"><b>1992</b></td>
-        <td style="width: 14.28%;"><b>2002</b></td>
-        <td style="width: 14.28%;"><b>2013</b></td>
-        <td style="width: 14.28%;"><b>2017</b></td>
-        <td style="width: 14.28%;"><b>2018</b></td>
-        <td style="width: 14.28%;"><b>2020</b></td>
-        <td style="width: 14.28%;"><b>2022 ></b></td>
-    </tr>
-    <tr valign="top">
-        <td style="width: 14.28%; vertical-align: top;">I was born a chubby baby.</td>
-        <td style="width: 14.28%; vertical-align: top;">I learned that computers were cool and I fussed with mine so much that I broke it.</td>
-        <td style="width: 14.28%; vertical-align: top;">I created my clothing brand and had to perform multiple functions. 
-            I had to close the doors a while later but I don't regret it.</td>
-        <td style="width: 14.28%; vertical-align: top;">I graduated in business administration and found out I didn't fit in the area. This I regret.</td>
-        <td style="width: 14.28%; vertical-align: top;">I joined an IT company called Draft It and worked as a designer and front-end developer.</td>
-        <td style="width: 14.28%; vertical-align: top;">I started my solo career in the area as a freelancer managing projects and programming websites.</td>
-        <td style="width: 14.28%; vertical-align: top;">I want to take the next steps in my career to become a Full Cycle Developer studying back-end, DevOps tools and IAs.</td>
-    </tr>
-</table>
+My background combines software development, UI/UX principles, and business-oriented thinking, allowing me to approach technical challenges from both engineering and product perspectives.
 
-"You can’t connect the dots looking forward; you can only connect them looking backwards." - Steve Jobs.
+### Technical Background
 
-Along the way I tried different areas and experiences, I believe that is the only way to form a unique human being.
-These are some of the dots I connected along my journey:
+- **Languages:** JavaScript, C#, HTML, CSS
+- **Front-end:** React, Angular
+- **Back-end:** Node.js
+- **Mobile:** Flutter
+- **Tools & Platforms:** Git, Azure DevOps, WordPress, Figma
 
-<p><b>[ OS ]</b></p>
+### Areas of Interest
 
-- 🔳 Windows.
-- 🐧 Linux.
+- Software Architecture
+- System Integration
+- Application Design
+- Process Automation
+- AI-powered Applications
 
-<p><b>[ Frontend ]</b></p>
+### Background
 
-- 🧱 HTML.
-- 🎨 Css.
-- 💡  JS.
-- ☢ React.
-- 🤖 AngularJS.
-- 📘 Wordpress (PHP).
+- B.A. in Business Administration
+- Microsoft Certified: Azure Fundamentals
+- Experience working with multidisciplinary and international teams
 
-<p><b>[ Design ]</b></p>
+### Connect with me
 
-- 🖌️ Pacote Adobe.
-- 🖍️ Figma.
-
-<p><b>[ DevOps ]</b></p>
-
-- 🐱 Git.
-- 🐋 Docker.
-- ♾️ Azure Devops.
-
-<p><b>[ Backend ]</b></p>
-
-- 🐍 Python.
-- 🏴󠁴󠁷󠁰󠁥󠁮󠁿 Strapi.
-- 📦 NodeJS.
-
-<p><b>[ Mobile ]</b></p>
-
-- 📱 Flutter.
-
-<p><b>[ Management ]</b></p>
-
-- ⚙️ Scrum / Kanban.
-
-<p><b>[ Certificates ]</b></p>
-
-- 🏅 AZ-900 (Azure Fundamentals).
-
-<p><b>[ Next Steps ]</b></p>
-
-- 📗 IAs
-<br/>
-
-<p><b>Are you looking for a digital solution that not only meets your users' needs but also delights them with a visually stunning interface? Look no further! With my expertise in front-end development and Scrum project management, I can help you transform your digital vision into reality. I specialize in crafting seamless user experiences that blend creativity and technology, all while leading projects with agility and finesse. Let's work together to create a digital masterpiece that your users will love. Contact me today to get started!<br/></b></p>
-
-<p><b>[ Contact ]</b></p>
-
-- 📫 Contact:  mendes.caue@outlook.com
-- 📑 Linkedin: [https://www.linkedin.com/in/caue-mendes-415736241/](https://www.linkedin.com/in/cau%C3%AA-mendes-415736241/)
-
+- [LinkedIn](https://www.linkedin.com/in/caue-mendes-415736241/)
